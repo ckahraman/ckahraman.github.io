@@ -17,10 +17,10 @@ Learning is endless pathway for me...
   * API Testing,
   * Desktop App Testing, 
   * ADA Testing (POC)
-*Test Management & Reporting with HP ALM & Jira
-*Tooling & POCs for multiple tools and Technologies 
-*CI/CD Pipeline involvement for Testing
-*Training, Mentoring & Consulting for Test Automation
+* Test Management & Reporting with HP ALM & Jira
+* Tooling & POCs for multiple tools and Technologies 
+* CI/CD Pipeline involvement for Testing
+* Training, Mentoring & Consulting for Test Automation
 
 ## Tools & Technologies
 ---
