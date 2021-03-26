@@ -46,7 +46,6 @@ RestAssured, JDBC, Apache PDFBox, Axe ...
 * Oracle Certified Java 8 Developer (Associate)
 * ISTQB Cerfitied Tester, 
 * AWS Certified Cloud Practitioner.
-*  
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
