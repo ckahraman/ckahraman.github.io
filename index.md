@@ -36,7 +36,7 @@ RestAssured, JDBC, Apache PDFBox, Axe ...
 * **Databases:** Hadoop, Oracle, MySQL, Ms SQL Server.
 * **Build & CI/CD:** Git, BitBucket, Maven, jFrog Artifactory, SonarQube, Jenkins. 
 * **Front-End Techs:** HTML, CSS, BootStrap
-* **API developemtn:** MuleSoft, Java Spring (in progress)
+* **API development:** MuleSoft, Java Spring (in progress)
 * **Data Visualization & Reporting:** Tableau Desktop
 * **IDEs:** Eclipse, IntelliJ, Visual Studio Code.
 * **Cloud:** Amazon Web Services(AWS) 
