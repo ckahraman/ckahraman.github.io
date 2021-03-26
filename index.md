@@ -1,7 +1,7 @@
 ## About Me
 ---
 
-* I have been working in IT for 8+ years
+* I have been working on IT related jobs for 8+ years.
 * Currently working as Test Automation Lead.
 * I worked on developement of Salesforce and Mulesoft apps. 
 * Working on Tableau Dashboard & Reporting
@@ -17,10 +17,13 @@ Learning is endless pathway for me...
   * API Testing,
   * Desktop App Testing, 
   * ADA Testing (POC)
+  * Combinatorial Testing (POC)
 * Test Management & Reporting with HP ALM & Jira
 * Tooling & POCs for multiple tools and Technologies 
 * CI/CD Pipeline involvement for Testing
 * Training, Mentoring & Consulting for Test Automation
+* Salesforce development with Apex & VisualForce
+* MuleSoft API development and Salesforce integration
 
 ## Tools & Technologies
 ---
@@ -42,10 +45,17 @@ RestAssured, JDBC, Apache PDFBox, Axe ...
 ## Certifications & Education
 ---
 * Bachelors degree from Marmara University, Turkey.
-* Masters Degree from ACE, US.
+* Masters Degree from ACE in US.
 * Oracle Certified Java 8 Developer (Associate)
 * ISTQB Cerfitied Tester, 
 * AWS Certified Cloud Practitioner.
+
+## Involvement & Hobbies
+---
+* IoT for Home Automation with RaspberryPi & Arduino
+* Mentoring Robotics Compation team (FLL & VEX Robotics)
+* Working on Music Technology.
+* Musician
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
