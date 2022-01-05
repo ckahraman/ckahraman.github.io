@@ -2,12 +2,12 @@
 ---
 
 * I have been working on IT related jobs for 8+ years.
-* Currently working as Test Automation Lead & SDET.
+* Active in software development & testing for 5+ years.
+* Currently work as Test Automation Lead & SDET at Bank of America.
 * Developed java desktop applications.
-* I worked on developement of Salesforce and Mulesoft apps. 
-* 
+* Husband of a lovely wife and father of two handsome boy.
 * I love every aspect of Technology and 
-Learning is endless journey for me... 
+learning is endless journey for me... 
 
 ## My Skills
 ---
@@ -55,6 +55,7 @@ RestAssured, JDBC, Apache PDFBox, Axe ...
 ---
 * IoT for Home Automation with RaspberryPi & Arduino
 * Mentoring Robotics Compation team (FLL & VEX Robotics)
+* Taught Turkish as Foreign Language for two years in NCSU as volunteer.
 * Working on Music Technology.
 * Musician
 
