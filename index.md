@@ -2,16 +2,17 @@
 ---
 
 * I have been working on IT related jobs for 8+ years.
-* Currently working as Test Automation Lead.
+* Currently working as Test Automation Lead & SDET.
+* Developed java desktop applications.
 * I worked on developement of Salesforce and Mulesoft apps. 
-* Working on Tableau Dashboard & Reporting
+* 
 * I love every aspect of Technology and 
-Learning is endless pathway for me... 
+Learning is endless journey for me... 
 
 ## My Skills
 ---
 
-* Automation Development for:
+* Automation Development in Java for:
   * WebUI Testing,
   * Database Testing, 
   * API Testing,
@@ -28,7 +29,7 @@ Learning is endless pathway for me...
 ## Tools & Technologies
 ---
 
-* **Programming Languages:** Java, Python, Apex
+* **Programming Languages:** Java, Python, Apex, Unix shell
 * **Testing Tools & Frameworks:** Junit, Cucumber,TestNG, LeanFT, Robot Framework,
 Postman, Insomnia, SOAPUI, HP ALM. 
 * **Automation Tools & Libraries:** Selenium WebDriver, Apache POI, Sikuli, LeanFT,
