@@ -3,16 +3,16 @@
 
 * I have been working on IT related jobs for 8+ years.
 * Active in software development & testing for 5+ years.
-* Currently work as Test Automation Lead & SDET at Bank of America.
+* Currently work as Senior QA Automation Engineer at Earnest.
 * Developed java desktop applications.
-* Husband of a lovely wife and father of two handsome boy.
+* Husband of a lovely wife and father of two handsome boys.
 * I love every aspect of Technology and 
 learning is endless journey for me... 
 
 ## My Skills
 ---
 
-* Automation Development in Java for:
+* Automation Development in Java and JS for:
   * WebUI Testing,
   * Database Testing, 
   * API Testing,
@@ -29,13 +29,13 @@ learning is endless journey for me...
 ## Tools & Technologies
 ---
 
-* **Programming Languages:** Java, Python, Apex, Unix shell
-* **Testing Tools & Frameworks:** Junit, Cucumber,TestNG, LeanFT, Robot Framework,
+* **Programming Languages:** Java, JS, Python, Apex, Unix shell
+* **Testing Tools & Frameworks:** Junit, Cucumber,TestNG, LeanFT, Cypress.io, Robot Framework,
 Postman, Insomnia, SOAPUI, HP ALM. 
 * **Automation Tools & Libraries:** Selenium WebDriver, Apache POI, Sikuli, LeanFT,
 RestAssured, JDBC, Apache PDFBox, Axe ...
-* **Databases:** Hadoop, Oracle, MySQL, Ms SQL Server.
-* **Build & CI/CD:** Git, BitBucket, Maven, jFrog Artifactory, SonarQube, Jenkins. 
+* **Databases:** Hadoop, Oracle, MySQL, Ms SQL Server, GraphQL, Postgres
+* **Build & CI/CD:** Git, BitBucket, Maven, jFrog Artifactory, SonarQube, Jenkins, Yarn, Node. 
 * **Front-End Techs:** HTML, CSS, BootStrap
 * **API development:** MuleSoft, Java Spring (in progress)
 * **Data Visualization & Reporting:** Tableau Desktop
