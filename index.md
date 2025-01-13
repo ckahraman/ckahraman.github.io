@@ -6,8 +6,7 @@
 * Big advocate of Cypress Test automation tool. 
 * Developed java desktop applications.
 * Husband of a lovely wife and father of two handsome boys.
-* I love every aspect of Technology and 
-learning is endless journey for me... 
+* I am passionate about every aspect of technology, and I view learning as an endless journey. 
 
 ## My Skills
 ---
