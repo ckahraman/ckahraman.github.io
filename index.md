@@ -1,9 +1,9 @@
 ## About Me
 ---
 
-* I have been working on IT related jobs for 8+ years.
-* Active in software development & testing for 5+ years.
+* I have been working on software development & testing for 7+ years.
 * Currently work as Senior QA Automation Engineer at Earnest.
+* Big advocate of Cypress Test automation tool. 
 * Developed java desktop applications.
 * Husband of a lovely wife and father of two handsome boys.
 * I love every aspect of Technology and 
@@ -13,13 +13,13 @@ learning is endless journey for me...
 ---
 
 * Automation Development in Java and JS for:
-  * WebUI Testing,
-  * Database Testing, 
-  * API Testing,
-  * Desktop App Testing, 
-  * ADA Testing (POC)
-  * Combinatorial Testing (POC)
-* Test Management & Reporting with HP ALM & Jira
+  * WebUI Testing (Selenium, Cypress),
+  * Database Testing(JDBC), 
+  * API Testing(Postman, RestAssured, Chai/mocha, SuperTest),
+  * Desktop App Testing(LeanFT), 
+  * ADA Testing (Axe, Percy)
+  * Combinatorial Testing (NIST Comninatorial Testing)
+* Test Management & Reporting with HP ALM & Jira & Xray
 * Tooling & POCs for multiple tools and Technologies 
 * CI/CD Pipeline involvement for Testing
 * Training, Mentoring & Consulting for Test Automation
@@ -40,6 +40,8 @@ RestAssured, JDBC, Apache PDFBox, Axe ...
 * **API development:** MuleSoft, Java Spring (in progress)
 * **Data Visualization & Reporting:** Tableau Desktop
 * **IDEs:** Eclipse, IntelliJ, Visual Studio Code.
+* **Infra:** Kubernetes, TestKube
+* **Monitoring:** Splunk, New Relic
 * **Cloud:** Amazon Web Services(AWS) 
 
 
@@ -57,6 +59,7 @@ RestAssured, JDBC, Apache PDFBox, Axe ...
 * Mentoring Robotics Compation team (FLL & VEX Robotics)
 * Taught Turkish as Foreign Language for two years in NCSU as volunteer.
 * Working on Music Technology.
+* Former Public School Teacher.
 * Musician
 
 ---
